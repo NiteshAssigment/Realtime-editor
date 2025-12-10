@@ -104,6 +104,19 @@ The application enforces strict access control using a collaboration array with 
 * **Request Access:** When a user without access attempts to view a document, they are redirected to an Access Denied page where they can submit a request for `read` or `write` permission.
 * **Handle Decision:** The document owner receives a list of pending requests and can **Grant** (adding the user to the collaborators array with the requested role) or **Deny** the access.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf1c277f-5990-4e44-8de6-2874e18e8c0d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4561127-f4a9-43b9-8cd6-2b6b381c0e4c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/97dbcc1c-f669-4647-a194-4b0992f9f816" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5e5c8929-c504-4634-b35e-83843bd4d845" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ef2674d2-006e-4031-908f-c3a212491bf9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a09ac775-62d3-4699-b595-1251e0d2eae4" />
+
+
+
+
+
+
+
 ## 🤝 Contribution
 
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request!
